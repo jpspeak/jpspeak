@@ -1,6 +1,6 @@
 # ✋ Hi, I'm Jay Philip Camillo - aka JP
 
-###### 💻 I graduated as a **Computer Engineer**. Even so, as a **Web Developer/Software Engineer** by profession and passion.
+##### 💻 I graduated as a **Computer Engineer**. Even so, as a **Web Developer/Software Engineer** by profession and passion.
 
 - 🔁 I am endlessly learning web development! 
 - 💚 I love both 📐Frontend and 🧠Backend as a developer!  
